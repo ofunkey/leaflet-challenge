@@ -1,0 +1,9 @@
+    pointToLayer: function (feature, latlng) {
+      return new L.circle(latlng,
+        {radius: getRadius(feature.properties.mag),
+          fillColor: getColor(feature.properties.mag),
+          fillOpacity: .7,
+          stroke: true,
+          color: "black",
+          weight: .5}
+      )}
