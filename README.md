@@ -2,7 +2,7 @@
 
 ## Background
 
-![1-Logo](Images/1-Logo.png)
+![1-Logo](https://github.com/ofunkey/leaflet-challenge/blob/master/Leaflet-Step-2/Images/1-Logo.png)
 
 In this work, I built a new set of tools that visualize earthquake data to educate the public and other government organizations on issues facing our planet. 
 
@@ -17,10 +17,10 @@ Your first task is to visualize an earthquake data set.
 
 1. **Get the data set**
 
-   ![3-Data](Images/3-Data.png)
+   ![3-Data](https://github.com/ofunkey/leaflet-challenge/blob/master/Leaflet-Step-2/Images/3-Data.png)
 
 
-   ![4-JSON](Images/4-JSON.png)
+   ![4-JSON](https://github.com/ofunkey/leaflet-challenge/blob/master/Leaflet-Step-2/Images/4-JSON.png)
    
 
 2. **Import & Visualize the Data**
