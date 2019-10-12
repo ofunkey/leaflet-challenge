@@ -1,5 +1,7 @@
 # Visualizing Data with Leaflet
 
+https://ofunkey.github.io/leaflet-challenge/Leaflet-Step-2/index.html
+
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
@@ -44,6 +46,7 @@ Data on tectonic plates is found at <https://github.com/fraxen/tectonicplates>.
 * Add layer controls to our map.
 
   * See what it looks like.
+  https://ofunkey.github.io/leaflet-challenge/Leaflet-Step-2/index.html
   - - -
 
 
